@@ -1,0 +1,11 @@
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\bin\Debug\OOP.consoleExample1.exe.config
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\bin\Debug\OOP.consoleExample1.exe
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\bin\Debug\OOP.consoleExample1.pdb
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\obj\Debug\OOP.consoleExample1.csproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\obj\Debug\OOP.consoleExample1.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\obj\Debug\OOP.consoleExample1.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\obj\Debug\OOP.consoleExample1.exe
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\obj\Debug\OOP.consoleExample1.pdb
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\bin\Debug\AudioManager.dll
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\bin\Debug\AudioManager.pdb
+C:\Users\carlos\source\repos\OOP.consoleExample1\OOP.consoleExample1\obj\Debug\OOP.consoleExample1.csproj.CopyComplete
